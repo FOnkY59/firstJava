@@ -1,2 +1,3 @@
-# Test for JENKIN
+# Test for JENKINS
 
+Use JDK 19
